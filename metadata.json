@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc - Calculadora em Python",
+  "description": "Calculadora interativa com motor Python em tempo real, modos científico e programador, e gerador de códigos Python (CLI, GUI Tkinter e OOP) prontos para download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
